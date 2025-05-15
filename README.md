@@ -16,7 +16,7 @@ Follow these steps to run the project locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/swach-seva-household.git
+git clone https://github.com/yuviiitm26/mad1project_Swach_seva_Household.git
 cd swach-seva-household
 2. Create and activate a Python virtual environment
 bash
@@ -44,6 +44,6 @@ The app will start on http://127.0.0.1:5000/. Open this URL in your browser to u
 
 Few glimpses of the app:
 
-![mad1_landing_page](https://github.com/user-attachments/assets/ca085e04-8a4d-47cb-9c6d-c2832095756b)
-python ap![pro](https://github.com/user-attachments/assets/872fd9c9-675c-402e-8be1-1cf267e6d2ff)
-![customer](https://github.com/user-attachments/assets/e71a2348-6e3e-45d5-8dfe-0bf14284a72f)
+[mad1_landing_page](https://github.com/user-attachments/assets/ca085e04-8a4d-47cb-9c6d-c2832095756b)
+[pro](https://github.com/user-attachments/assets/872fd9c9-675c-402e-8be1-1cf267e6d2ff)
+[customer](https://github.com/user-attachments/assets/e71a2348-6e3e-45d5-8dfe-0bf14284a72f)
